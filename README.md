@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Jenil, a student at Marwadi University in India, <br>with a passion for Web Developement.<br>💻 Interested in Web Development.<br>📚 Skills : React.js, Node.js, Express, MongoDB<br>📫 Reach me via email at : jenilreshamiya7@gmail.com<br>🔗 Connect me via LinkedIn : Jenil Reshamiya<br>
+👋 Hi, I'm Jenil, a student at Marwadi University in India, <br>with a passion for Web Developement.<br>💻 Interested in Web Development.<br>📚 Skills : React.js, Node.js, Express, MongoDB<br>📫 Reach me via email at : jenilreshamiya7@gmail.com<br>🔗 Connect me via LinkedIn : https://linkedin.com/in/jenil-reshamiya<br>
 
 
 ## 🌐 Socials:
